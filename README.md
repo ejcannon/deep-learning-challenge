@@ -7,6 +7,8 @@ Data Preprocessing
 
 What variable(s) are the target(s) for your model?
 - IS_SUCCESSFUL
+
+
 What variable(s) are the features for your model?
 - APPLICATION_TYPE
 - AFFILIATION
